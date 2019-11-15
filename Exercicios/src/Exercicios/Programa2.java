@@ -6,9 +6,7 @@ b)  Para mulheres: (62.1*h) - 44.7 (h = altura)
  */
 
 package Exercicios;
-
 import java.util.Scanner;
-
 public class Programa2 {
 	
 	public static void main(String[] args) {
@@ -20,20 +18,15 @@ public class Programa2 {
 	System.out.println("Qual o genero dessa pessoa sendo 1 para masculino e 2 para feminino");
 	genero = teclado.nextInt();
 	switch (genero) {
-	
 	case 1:
 		res=(float) ((72.7 * altura)-58);
 		System.out.println("O peso ideial para o genero masculino é " + res);
 		break;
-		
 	case 2:
 		res=(float) ((62.1 * altura)-44.7);
 		System.out.println("O peso ideial para o genero feminino " + res );
-	
-
 	default:
 		System.out.println("Valor invalido");
-		
 		break;
 	}	
    }
