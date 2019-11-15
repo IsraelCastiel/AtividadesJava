@@ -20,7 +20,7 @@ public class Programa6 {
 		preco=teclado.nextFloat();		
 		System.out.println("Informe quanto o carro esta fazendo a cada km/l");
 		consumo=teclado.nextFloat();		
-		System.out.println("O valor a ser gasto é " + consumo*preco+ " R$");
+		System.out.println("O valor a ser gasto é " + (consumo/preco)*dist+ " R$");
 	}
 
 }
