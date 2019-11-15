@@ -1,4 +1,4 @@
-/* 8)	Faça um programa que solicita ao usuário uma quantidade de segundos, 
+/* 8)Faça um programa que solicita ao usuário uma quantidade de segundos, 
  * converte em horas, minutos e segundos e exibe na tela.
  */
 
