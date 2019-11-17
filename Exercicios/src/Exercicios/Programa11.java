@@ -1,6 +1,6 @@
 /*11)	Uma empresa possui 50 vendedores que ganham por comissão sobre cada produto vendido.
  * Cada vendedor em um determinado mês vendeu x produtos. A emprese deseja obter um relatório com o Nome, Total de vendas e o valor pago ao vendedor 
- * que vendeu mais e o vendedor que vendeu menos, a comissão da empresa é de 15%.
+ * que vendeu mais e o vendedor que vendeu menos, a comissão da empresa é de 15%    .
  */
 package Exercicios;
 
