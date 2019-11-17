@@ -16,22 +16,24 @@ public class Programa12 {
 		n3=teclado.nextInt();
 		
 		if(n1 < n2) {
-			if(n2<n3) {
+				if(n2<n3){
 				System.out.println(n1+"\n"+n2+"\n"+n3);
 				}else if(n1<n3){
 				System.out.println(n1+"\n"+n3+"\n"+n2);	
-				}else {
+				}else{
 				System.out.println(n3+"\n"+n1+"\n"+n2);	
 				}			
-		}else if(n2 < n3) {
+		}
+		
+			  else if(n2 < n3){
 			  if(n1 < n3) {
 				System.out.println(n2+"\n"+n1+"\n"+n3);	
 			}else{
 				System.out.println(n2+"\n"+n3+"\n"+n1);	
-			}/*else{
-				System.out.println(n3+"\n"+n2+"\n"+n1);					
-			}*/			
-		}			
+			}					
+		    }else{
+			System.out.println(n3+"\n"+n2+"\n"+n1);
+		}
 	}
 }
 
