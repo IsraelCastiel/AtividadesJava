@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Programa3 {
 
 	public static void main(String[] args) {
-	float n1,A;
+	float n1,A,B;
 	Scanner	teclado = new Scanner(System.in);
 	System.out.println("Informe um numero");
 	n1 = teclado.nextFloat();
