@@ -3,8 +3,6 @@
 */
 package Exercicios;
 
-import java.util.Scanner;
-
 public class Progrma14 {
 		
 		public static void main(String[] args) {
