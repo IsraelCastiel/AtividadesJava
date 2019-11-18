@@ -25,10 +25,10 @@ public class Progrma14 {
 			 if(controle){
 			 break;
 			 }
-			  }
+		  }
 			 
 			 for (int i = 0; i < vetor.length; ++i) {
 			 System.out.print(vetor[i] + " ");
-			 }
-			 }
-			}
+		 }
+	 }
+}
