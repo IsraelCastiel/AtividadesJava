@@ -13,18 +13,19 @@ public class Programa13 {
 		int c = 0;
 		
 		String Marca[] = {"FIAT","FIAT","RENAULT","FIAT","LOGAN"};		
+			
 		
-		for (Marca[c].compareTo("FIAT");c<5;c++) {
-		
-		     
+		for (Marca[c].compareTo("FIAT");c<5;c++) {	
+					
 		if(Marca[c]=="FIAT"){
+								
+		System.out.println(Marca[c]+" na posicao " + c);
 		
 			
-			System.out.println(Marca[c]+" na posicao " + c);
 			
 		}
 			
-		}
+	}	
 }
 }
 
