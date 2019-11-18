@@ -6,8 +6,6 @@ package Exercicios;
 import java.util.Scanner;
 
 public class Progrma14 {
-
-
 		
 		public static void main(String[] args) {
 			 
@@ -29,12 +27,10 @@ public class Progrma14 {
 			 if(controle){
 			 break;
 			 }
-			 
-			 }
+			  }
 			 
 			 for (int i = 0; i < vetor.length; ++i) {
 			 System.out.print(vetor[i] + " ");
 			 }
-			 
-			}
+			 }
 			}
