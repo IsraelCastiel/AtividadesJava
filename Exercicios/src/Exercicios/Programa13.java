@@ -20,9 +20,7 @@ public class Programa13 {
 		if(Marca[c]=="FIAT"){
 								
 		System.out.println(Marca[c]+" na posicao " + c);
-		
-			
-			
+					
 		}
 			
 	}	
