@@ -15,7 +15,7 @@ public class Progrma14 {
 			 controle = true;
 			 for(int j = 0; j < (vetor.length - 1); ++j){
 			 
-			 if(vetor[j] > vetor[j + 1]){// para inverter a ordem só mudar de menor para maio
+			 if(vetor[j] > vetor[j + 1]){// para inverter a ordem só mudar de menor para maior
 			 aux = vetor[j];
 			 vetor[j] = vetor[j + 1];
 			 vetor[j + 1] = aux;
