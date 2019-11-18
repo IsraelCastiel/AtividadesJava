@@ -36,9 +36,7 @@ public class Programa11 {
 			System.out.printf("quem vendeu mais foi vendedor1 %.1f",venda1,"\n" );	
 			resultado = 15 * venda1;
 			comissao = resultado / 100;
-			System.out.printf("e sua comissao foi %.1f",comissao);
-			
-			
+			System.out.printf("e sua comissao foi %.1f",comissao);			
 
 		} else {
 			System.out.printf("quem vendeu mais foi vendedor2 %.1f",venda2 );
