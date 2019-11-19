@@ -1,6 +1,5 @@
 package Exercicios;
 
-import java.util.Scanner;
 
 public class Programa15 {
 
