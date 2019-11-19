@@ -3,7 +3,7 @@
 */
 package Exercicios;
 
-public class Progrma14 {
+public class Programa14 {
 		
 		public static void main(String[] args) {
 			
