@@ -6,7 +6,8 @@ package Exercicios;
 public class Progrma14 {
 		
 		public static void main(String[] args) {
-			 
+			
+			
 			int vetor[] = {3, 6, 2, 1, 8, 4,7,10,9,11};
 			 int aux;
 			 boolean controle;
