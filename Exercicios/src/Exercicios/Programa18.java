@@ -22,8 +22,6 @@ public class Programa18 {
 		j=k;
 		k=auxi;
 		System.out.println("Os valores apos a troca e  J:" + j + " e pra K "  + k);
-		
-
-	}
+		}
 
 }
