@@ -26,7 +26,7 @@ public class Programa20 {
 	n8=tec.next();
 	n9=tec.next();
 	n10=tec.next();
-	System.out.println("Os 10 nomes são " + n1 + "\n" + n2 + "\n" + "\n" + n3 + "\n" + n4 + 
+	System.out.println("Os 10 nomes são \n" + n1 + "\n" + n2 + "\n" + "\n" + n3 + "\n" + n4 + 
 			"\n" + "\n" + n5 +"\n"+ n6 + "\n" +"\n" + "\n"+ n7 + "\n" + n8 + "\n" + n9 +"\n" + n10);
 	System.out.println("Deseja imprimir novamente 1 - sim  ou 2 - nao");
 	opcao=tec.nextInt();
