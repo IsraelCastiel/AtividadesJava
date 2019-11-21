@@ -10,10 +10,8 @@ public class Programa16 {
 	public static void main(String[] args) {
 		
 	int v[] = new int [total];
-	for (int i = 2; i< total;i++) {
-		
+	for (int i = 2; i< total;i++) {		
 		v[i] = i;
-		
 	}
 	
 	for(int i = 2;i < total; i++) {
@@ -37,7 +35,6 @@ public class Programa16 {
 			System.out.print(v[i] + " - " + "\n");
 			
 		}
-
 
 		
 	}
