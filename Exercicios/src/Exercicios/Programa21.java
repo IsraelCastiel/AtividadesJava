@@ -1,3 +1,9 @@
+/*Receba a palavra que o usuário digitar e atribua os seguintes valores 5 para vogais e 10 
+ * para consoantes, apresente o resultado do valor da palavra digitada.* 
+ * 
+ */
+
+
 package Exercicios;
 
 import java.util.Scanner;
