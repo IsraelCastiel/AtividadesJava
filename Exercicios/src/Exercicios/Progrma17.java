@@ -14,16 +14,13 @@ public class Progrma17 {
 	float n1,n2,n3,n4,n5,n6,n7,n8,media;
 	String nome;
 	
-
-	
 	System.out.println("Informe o nome do aluno:");
 	nome=teclado.next();
 	
 	System.out.println("Informe as nota do primeiro bimenstre:");
 	n1=teclado.nextFloat();
 	n2=teclado.nextFloat();
-	
-	
+		
 	System.out.println("Informe as nota do segundo bimenstre:");
 	n3=teclado.nextFloat();
 	n4=teclado.nextFloat();
@@ -31,8 +28,7 @@ public class Progrma17 {
 	System.out.println("Informe as nota do terceito bimenstre:");
 	n5=teclado.nextFloat();
 	n6=teclado.nextFloat();
-	
-	
+		
 	System.out.println("Informe as nota do Quarto bimenstre:");
 	n7=teclado.nextFloat();
 	n8=teclado.nextFloat();
