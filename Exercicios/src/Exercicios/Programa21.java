@@ -19,16 +19,7 @@ public class Programa21 {
 		for(i=0;i<qtd;i++) 
 			
 			System.out.print(palavra.charAt(i) + " ");
-			 System.out.println("\nPossue " + qtd + " letras.");
-		
-		
-		
-		
-		
-   
-		
-		
-		
+			System.out.println("\nPossue " + qtd + " letras.");
 		
 		
 
