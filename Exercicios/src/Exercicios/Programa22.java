@@ -1,3 +1,8 @@
+/*22)	Crie um programa que receba o valor
+ *  da cotação em Dólar e Euro, também valor 
+ *  em reais a ser convertido, apresente os valores da
+ *   conversão nas respectivas moedas. 
+ */
 package Exercicios;
 
 import java.util.Scanner;
