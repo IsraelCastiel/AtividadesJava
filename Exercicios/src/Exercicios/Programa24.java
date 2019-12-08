@@ -2,6 +2,8 @@
  quando terminar o cadastro apresentar os nomes dos jogadores de cada time, 
 caso um dos times tenha menos jogadores que outros, 
 solicitar o cadastro e exibir os jogadores cadastrados.
+lk
+
 */
 
 package Exercicios;
@@ -25,6 +27,10 @@ public class Programa24 {
 		for (i = 0; i < 7;i++) {
 		time2[i]=tec.next();
 		}
+		sdf
+		sdf
+		sdf
+		
 		
 		
 		
