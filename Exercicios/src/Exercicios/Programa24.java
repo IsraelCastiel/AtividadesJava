@@ -15,7 +15,7 @@ public class Programa24 {
 		int i;
 		Scanner tec = new Scanner(System.in);
 		String time1[] = new String[7];
-		String time2[] = new String[7];			
+		String time2[] = new String[7];	
 		System.out.println("Informe para o time 1 os nomes dos jogadores");
 		
 		for (i = 0; i < 7;i++) {
@@ -23,14 +23,11 @@ public class Programa24 {
 		}
 		
 		System.out.println("Informe para o time 2 os nomes dos jogadores");
-
 		for (i = 0; i < 7;i++) {
 		time2[i]=tec.next();
+				
 		}
-		
-		
-		
-		
-		
 	}
+		
+		
 }
